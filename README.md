@@ -6,8 +6,8 @@ access2json
 Требования:
 ----------
 
--nodejs
--odbc (npm i odbc)
+- nodejs
+- odbc (npm i odbc)
 
 Конфиг файл должен находится в одной папке с app.js и представляет из себя json файл со структурой:
 
